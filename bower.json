@@ -1,0 +1,20 @@
+{
+  "name": "angular-smoothscroll",
+  "version": "0.1.0",
+  "main": "dist/scripts/c8742280.scripts.js",
+  "dependencies": {
+    "jquery": "~2.1.0",
+    "angular": "~1.2.14"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "app/",
+    "test/",
+    "**/*.txt",
+    "karma-e2e.conf.js",
+    "karma.conf.js",
+    "package.json",
+    "Gruntfile.js"
+  ]
+}
